@@ -1328,7 +1328,7 @@
     <property name="monster_id" value="35"/>
    </properties>
   </object>
-  <object name="Maggot" type="spawn" x="2112" y="2784" width="480" height="448">
+  <object name="Maggot" type="spawn" x="2118" y="2794" width="480" height="448">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
@@ -1425,12 +1425,12 @@
     <property name="dest_tile_y" value="61"/>
    </properties>
   </object>
-  <object name="la" type="spawn" x="2112" y="2784" width="480" height="448">
+  <object name="Mymobe" type="spawn" x="1952" y="3082" width="128" height="164">
    <properties>
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="8"/>
-    <property name="monster_id" value="131"/>
+    <property name="monster_id" value="132"/>
    </properties>
   </object>
  </objectgroup>
