@@ -127,10 +127,7 @@
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
-<<<<<<< HEAD
-  <include name="monsters/monster1133_mobJuan.xml"/>
-=======
+  <include name="monsters/monster1136_mobJuan.xml"/>
   <include name="monsters/monster1133_MiMob.xml"/>
->>>>>>> 21c5133feea96137315eba14147f4c52652d5aee
   <include name="monsters/monster1134_Mymobe.xml"/>
 </monsters>

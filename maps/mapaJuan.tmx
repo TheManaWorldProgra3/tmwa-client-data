@@ -1349,7 +1349,7 @@
     <property name="eA_death" value="30000"/>
     <property name="eA_spawn" value="100000"/>
     <property name="max_beings" value="8"/>
-    <property name="monster_id" value="133"/>
+    <property name="monster_id" value="136"/>
    </properties>
   </object>
   <object name="Scorpion" type="spawn" x="896" y="1024" width="1024" height="768">
