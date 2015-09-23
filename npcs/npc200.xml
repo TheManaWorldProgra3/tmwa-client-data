@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="200">
+    <sprite>model/grave.xml</sprite>
+  </npc>
+</npcs>
