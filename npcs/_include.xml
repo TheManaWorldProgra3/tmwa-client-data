@@ -213,5 +213,6 @@
   <include name="npcs/npc417.xml"/>
   <include name="npcs/npc418.xml"/>
   <include name="npcs/npc200.xml"/>
+  <include name="npcs/npc130.xml"/>
   <include name="npcs/npc219.xml"/>
 </npcs>

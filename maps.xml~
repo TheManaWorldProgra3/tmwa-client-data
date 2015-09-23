@@ -63,9 +63,6 @@
   <map name="029-1.tmx">
     <atlas name="woodland"/>
   </map>
-  <map name="mimapa.tmx">
-    <atlas name="woodland"/>
-  </map>
   <map name="052-1.tmx">
     <atlas name="woodland"/>
   </map>
