@@ -1406,7 +1406,7 @@
   </object>
   <object name="To Alternate Map" type="warp" x="2079" y="3041" width="32" height="32">
    <properties>
-    <property name="dest_map" value="mimapa"/>
+    <property name="dest_map" value="mapaJona"/>
     <property name="dest_tile_x" value="40"/>
     <property name="dest_tile_y" value="89"/>
   <object name="To Storeroom" type="warp" x="1408" y="2656" width="32" height="32">
