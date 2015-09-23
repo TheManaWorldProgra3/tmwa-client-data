@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="130">
+    <sprite>model/male.xml|#53201b,7f4f44,9e6a41,d09450,fcd3a3,feffff;#2f312f,727471,a4a6a3,dad5f5;#3a3a3a,d5d5d5</sprite>
+    <sprite>equipment/feet/boots-male.xml|#523129,ff9139</sprite>
+    <sprite>equipment/legs/skirt-male.xml|#221e06,444c21,71655b,a0944e</sprite>
+    <sprite>equipment/chest/ugly-sweater-male.xml|#573a26,9e7654,d3b79e,ffffff</sprite>
+    <sprite>hairstyles/hairstyle14-male.xml|#201820,492713,cf6613,e56a20,ffffff</sprite>
+    <sprite>equipment/head/bandana-male.xml|#9c2c00,ee4800,ff7139</sprite>
+  </npc>
+</npcs>
