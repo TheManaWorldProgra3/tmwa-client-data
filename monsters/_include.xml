@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <monsters offset="0">
-  <include name="monsters/monster1051_PoisonSkullav.xml"/>
   <include name="monsters/monster1002_Maggot.xml"/>
   <include name="monsters/monster1003_Scorpion.xml"/>
   <include name="monsters/monster1004_RedScorpion.xml"/>
@@ -132,4 +131,5 @@
   <include name="monsters/monster1136_mobJuan.xml"/>
   <include name="monsters/monster1133_MiMob.xml"/>
   <include name="monsters/monster1134_Mymobe.xml"/>
+  <include name="monsters/monster1137_PoisonSkullav.xml"/>
 </monsters>

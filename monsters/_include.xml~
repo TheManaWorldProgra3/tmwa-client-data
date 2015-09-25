@@ -1,9 +1,5 @@
 <?xml version="1.0"?>
 <monsters offset="0">
-<<<<<<< HEAD
-  <include name="monsters/monster1051_PoisonSkullav.xml"/>
-=======
->>>>>>> 5dd2f9bae6d471167c40f41835347835dd0e5312
   <include name="monsters/monster1002_Maggot.xml"/>
   <include name="monsters/monster1003_Scorpion.xml"/>
   <include name="monsters/monster1004_RedScorpion.xml"/>
@@ -131,10 +127,9 @@
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
-<<<<<<< HEAD
-=======
+  <include name="monsters/monster1150_cahlmob.xml"/>
   <include name="monsters/monster1136_mobJuan.xml"/>
   <include name="monsters/monster1133_MiMob.xml"/>
   <include name="monsters/monster1134_Mymobe.xml"/>
->>>>>>> 5dd2f9bae6d471167c40f41835347835dd0e5312
+  <include name="monsters/monster1137_PoisonSkullav.xml"/>
 </monsters>
