@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+  <monster id="1051" name="Poison Skull">
+    <sprite>monsters/skull-poisonav.xml</sprite>
+  </monster>
+</monsters>
