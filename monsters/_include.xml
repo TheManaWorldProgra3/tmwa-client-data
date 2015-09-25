@@ -128,4 +128,8 @@
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
+  <include name="monsters/monster1150_cahlmob.xml"/>
+  <include name="monsters/monster1136_mobJuan.xml"/>
+  <include name="monsters/monster1133_MiMob.xml"/>
+  <include name="monsters/monster1134_Mymobe.xml"/>
 </monsters>

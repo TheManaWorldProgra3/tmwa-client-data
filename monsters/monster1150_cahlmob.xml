@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<monsters offset="0">
+  <monster id="1150" name="Serpiente">
+    <sprite>monsters/cahlmob.xml|#bb0201,ff9934,ffd366</sprite>
+    <sound event="die">monsters/bat/bat-dying1.ogg</sound>
+    <sound event="hit">monsters/bat/bat-hit1.ogg</sound>
+  </monster>
+</monsters>
